@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RaulExam</string>
+    <string name="lblUsername">Username:</string>
+    <string name="lblPassword">Password:</string>
+    <string name="lblLogin">LOGIN:</string>
+    <string name="lblBtnLogin">LOGIN</string>
+    <string name="lblProductInformation">PRODUCT INFORMATION</string>
+    <string name="lblProductName">Product Name</string>
+    <string name="lblProductUnit">Product Unit</string>
+    <string name="lblExpDate">Expiry Date: MM-DD-YY</string>
+    <string name="lblQuantiy">Quantity</string>
+    <string name="lblProductImage">Product Image</string>
+    <string name="lblProductPrice">Product Price</string>
+    <string name="lblBtnAdd">Add Product</string>
+    <string name="lblProdName">Name</string>
+    <string name="lblProdUnit">Unit</string>
+    <string name="lblProdPrice">Price</string>
+    <string name="lblProdDate">Date</string>
+    <string name="lblProdQty">Quantity</string>
+</resources>
